@@ -12,21 +12,17 @@ The week after, we can go over CNN chapter of the book and then read more resear
 * tutorial: http://www.deeplearningbook.org/contents/convnets.html
 * presenter: Chakra
 * research: https://arxiv.org/pdf/1511.07122.pdf
-
-presenter:  ??
+* presenter:  ??
 
 
 # April 7,14:
-Tutorial: http://www.deeplearningbook.org/contents/optimization.html
-
-research: TBD
+* Tutorial: http://www.deeplearningbook.org/contents/optimization.html
+* research: TBD
 
 # April 21,28, May 5, 12:
-Tutorial: https://www.coursera.org/learn/probabilistic-graphical-models
-
-Presenter : Fattaneh
-
-Research: TBD (perhaps GAN paper)
+* Tutorial: https://www.coursera.org/learn/probabilistic-graphical-models
+* Presenter : Fattaneh
+* Research: TBD (perhaps GAN paper)
 
 
 
