@@ -3,7 +3,7 @@
 ## March 17:
 * paper: https://arxiv.org/pdf/1512.03385.pdf     
 * slides: http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf 
-
+* presenter: Sumedha
 
 
 ## March 24, 31:
